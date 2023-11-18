@@ -1018,7 +1018,7 @@
         ctx.font = "20pt Arial";
         ctx.textAlign = 'center';
 
-        ctx.fillText("Swipe across the boat to move it move it.", this.x + this.width*0.5, this.y + (90*scale));
+        ctx.fillText("Swipe across the sail.", this.x + this.width*0.5, this.y + (90*scale));
 
         ctx.fillText("Tap the screen to start!", this.x + this.width*0.5, this.y + (220*scale));
 
