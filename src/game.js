@@ -980,7 +980,7 @@
 
         ctx.fillText("You did kind of alright, I guess.", this.x + this.width*0.5, this.y + (120*scale));
 
-        ctx.fillText("Press the screen to restart and try again !", this.x + this.width*0.5, this.y + (220*scale));
+        ctx.fillText("Tap to retry!", this.x + this.width*0.5, this.y + (220*scale));
 
 
         ctx.textAlign = 'left';
@@ -1020,7 +1020,7 @@
 
         ctx.fillText("Swipe across the boat to move it move it.", this.x + this.width*0.5, this.y + (90*scale));
 
-        ctx.fillText("Press the screen to start!", this.x + this.width*0.5, this.y + (220*scale));
+        ctx.fillText("Tap the screen to start!", this.x + this.width*0.5, this.y + (220*scale));
 
 
         ctx.textAlign = 'left';
